@@ -13,7 +13,7 @@ const introdata = {
         second: "I'm a good problem solver",
         third: "I love politics",
     },
-    description: "Hardworking and skilled in housekeeping, with a positive attitude, helpful nature, and the ability to motivate and support others.",
+    description: "Hardworking and skilled in housekeeping, with a Positive attitude, helpful nature, and the ability to motivate and support others.",
     your_img_url: binamImg,
 };
 
