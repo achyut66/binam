@@ -1,23 +1,25 @@
-const logotext = "JOHN";
+import binamImg from "./assets/images/binam.jpeg";
+
+const logotext = "BINAM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Binam Bhandari",
+    description: "Hardworking and skilled in housekeeping, with a positive attitude, helpful nature, and the ability to motivate and support others.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Binam Bhandari",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love to learn new things",
+        second: "I'm a good problem solver",
+        third: "I love politics",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Hardworking and skilled in housekeeping, with a positive attitude, helpful nature, and the ability to motivate and support others.",
+    your_img_url: binamImg,
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "A hardworking, responsible, and highly motivated housekeeping professional with excellent attention to cleanliness, hygiene, and organization. She is dedicated to maintaining a clean, comfortable, and welcoming environment and takes pride in completing tasks efficiently and to a high standard. She is also helpful, friendly, and supportive toward colleagues, often motivating and encouraging others to work as a team. She has a positive attitude, learns quickly, and can be trusted to work independently as well as with a team.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
